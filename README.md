@@ -14,7 +14,7 @@
 - Botões/link para páginas GitHub, Linkedin e Twitch respectivamente.
 
 ## 🔧 Como executar o projeto:
-- Copiar e colar o link do deploy no seu navegador: https://portifolio-fawn-zeta.vercel.app/
+- Copiar e colar o link do deploy no seu navegador: https://portifolio-swart-seven-14.vercel.app/
 
 <h2></h2>   
 Dev Danilo Marques(Iniciante)
